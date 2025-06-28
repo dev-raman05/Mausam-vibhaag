@@ -8,6 +8,6 @@ Background image is also added using the API by using latitude, longitude, and c
 
 If you want to visit the site, you can go to the link give below.
 
-([https://weather-project-seven-eta.vercel.app]);
+[https://weather-project-seven-eta.vercel.app]
 
 Please feel free to explore the application and provide feedback.
